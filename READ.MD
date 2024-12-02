@@ -1,0 +1,1 @@
+In this project i will learn the git commands like commit and it's uses as well as make a simple html project
